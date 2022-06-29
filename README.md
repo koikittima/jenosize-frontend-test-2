@@ -5,7 +5,7 @@ git clone https://github.com/koikittima/jenosize-frontend-test-2.git
 ````
 # Install Project
 ````
-npm 
+npm install
 ````
 # Run App
 ````
