@@ -1,0 +1,77 @@
+{
+    "register": "สมัครสมาชิก",
+    "edit_profile": "แก้ไขโปรไฟล์",
+    "login": "เข้าสู่ระบบ",
+    "password": "รหัสผ่าน",
+    "logout": "ออกจากระบบ",
+    "forgotpass": "ลืมรหัสผ่าน",
+    "change_password": "เปลี่ยนรหัสผ่านใหม่",
+    "password_cf": "ยืนยันรหัสผ่านใหม่",
+    "otp_confirm": "ยืนยัน OTP",
+    "otp": "รหัสยืนยัน OTP",
+    "send_otp": "ส่ง OTP อีกครั้ง",
+    "confirm": "ยืนยัน",
+    "confirm2": "ตกลง",
+    "confirm_ok": "ฉันเข้าใจและยอมรับข้อตกลง",
+    "cancel": "ยกเลิก",
+    "close": "ปิด",
+    "save": "บันทึก",
+    "policy": "เงื่อนไขและข้อตกลง",
+    "read": "อ่านเพิ่มเติม",
+    "upload": "อัปโหลด",
+    "no_data": "ไม่พบข้อมูล",
+    "search": "ค้นหา",
+    "no": "อันดับ",
+
+    "province": "จังหวัด",
+    "district": "เขต/อำเภอ",
+    "subDistrict": "แขวง/ตำบล",
+    "village": "หมู่ที่/หมู่บ้าน",
+    "org_name": "ชื่อหน่วยงาน",
+    "manage": "จัดการ",
+    "email": "อีเมล",
+    "fname": "ชื่อ",
+    "lname": "นามสกุล",
+    "phone": "หมายเลขโทรศัพท์",
+
+    "data_contact": "ข้อมูลการติดต่อ",
+    "data_contact2": "ข้อมูลที่ต้องการติดต่อ/สอบถาม",
+    "title_to_contact": "หัวข้อที่ต้องการติดต่อ",
+    "detail_to_contact": "รายละเอียด",
+    "pass_img": "รหัสภาพ",
+    "send_data": "ส่งข้อมูล",
+
+    "title": "ระบบสารสนเทศเพื่อการเฝ้าระวังโรคระบาดสัตว์",
+    "title_office": "สำนักควบคุม ป้องกันและบำบัดโรคสัตว์ กรมปศุสัตว์",
+
+    "contact": "ติดต่อ",
+    "for_officers": "สำหรับเจ้าหน้าที่",
+    "view_all": "ดูทั้งหมด",
+    "all": "ทั้งหมด",
+
+    "home": "หน้าหลัก",
+
+    "title_news": "ข่าวประชาสัมพันธ์",
+    "title_warn_disease": "เตือนภัยโรคระบาด",
+    "title_zone_disease": "ประกาศเขตโรคระบาด",
+    "title_situation_disease": "สถานการณ์โรคระบาด",
+
+    "title_report_disease": "แจ้งโรคระบาดสัตว์",
+
+    "report_diary": "รายงานประจำวัน",
+
+    "title_risk_assessment": "ประเมินความเสี่ยงฟาร์ม",
+
+    "title_document": "เอกสารดาวน์โหลด",
+    "title_form": "แบบฟอร์ม",
+    "title_manual": "คู่มือการใช้งาน",
+
+    "title_aboutus": "เกี่ยวกับเรา",
+    "tel": "โทรศัพท์",
+    "address": "ที่อยู่",
+    "website": "เว็บไซต์",
+
+    "title_contactus": "ติดต่อสอบถาม",
+
+    "new_password": "รหัสผ่านใหม่"
+}
